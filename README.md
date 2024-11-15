@@ -1,7 +1,5 @@
 # FutureCart: AI-Driven Demand Prediction for Smarter Retail
 
-![FutureCart Banner](https://via.placeholder.com/1200x400.png?text=FutureCart)
-
 ## 🚀 Overview
 
 FutureCart is a cutting-edge AI solution for retail demand forecasting. It leverages advanced analytics to empower businesses with actionable insights, ensuring smarter inventory and marketing decisions.
